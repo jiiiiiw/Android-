@@ -28,6 +28,6 @@ fun main(args:Array<String>){
     println(hello)
     println(point)
 
-    // 
+    // val 은 변경 불가능하다.
 
 }
